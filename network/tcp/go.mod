@@ -1,8 +1,8 @@
-module github.com/dobyte/due/network/tcp/v2
+module github.com/badzhang/bzserver/network/tcp/v2
 
 go 1.23.0
 
-require github.com/dobyte/due/v2 v2.2.5
+require github.com/badzhang/bzserver/v2 v2.2.7
 
 require (
 	dario.cat/mergo v1.0.1 // indirect
@@ -22,4 +22,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/dobyte/due/v2 => ../../
+replace github.com/badzhang/bzserver/v2 => ../../

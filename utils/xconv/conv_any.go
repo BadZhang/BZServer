@@ -1,7 +1,7 @@
 package xconv
 
 import (
-	"github.com/dobyte/due/v2/utils/xreflect"
+	"github.com/badzhang/bzserver/v2/utils/xreflect"
 	"reflect"
 )
 

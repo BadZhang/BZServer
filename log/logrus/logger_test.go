@@ -8,8 +8,8 @@
 package logrus_test
 
 import (
-	"github.com/dobyte/due/log/logrus/v2"
-	"github.com/dobyte/due/v2/log"
+	"github.com/badzhang/bzserver/log/logrus/v2"
+	"github.com/badzhang/bzserver/v2/log"
 	"testing"
 )
 

@@ -11,8 +11,8 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/aliyun/aliyun-log-go-sdk/producer"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/utils/xtime"
 	"os"
 	"sync"
 )

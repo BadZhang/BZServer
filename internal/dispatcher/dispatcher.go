@@ -1,10 +1,10 @@
 package dispatcher
 
 import (
-	"github.com/dobyte/due/v2/core/endpoint"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/badzhang/bzserver/v2/core/endpoint"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/registry"
 	"sync"
 )
 

@@ -1,13 +1,13 @@
 package kcp
 
 import (
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/utils/xcall"
-	"github.com/dobyte/due/v2/utils/xnet"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/network"
+	"github.com/badzhang/bzserver/v2/packet"
+	"github.com/badzhang/bzserver/v2/utils/xcall"
+	"github.com/badzhang/bzserver/v2/utils/xnet"
+	"github.com/badzhang/bzserver/v2/utils/xtime"
 	"github.com/xtaci/kcp-go/v5"
 	"net"
 	"sync"

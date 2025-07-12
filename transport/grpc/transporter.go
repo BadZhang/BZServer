@@ -1,10 +1,10 @@
 package grpc
 
 import (
-	"github.com/dobyte/due/transport/grpc/v2/internal/client"
-	"github.com/dobyte/due/transport/grpc/v2/internal/server"
-	"github.com/dobyte/due/v2/registry"
-	"github.com/dobyte/due/v2/transport"
+	"github.com/badzhang/bzserver/transport/grpc/v2/internal/client"
+	"github.com/badzhang/bzserver/transport/grpc/v2/internal/server"
+	"github.com/badzhang/bzserver/v2/registry"
+	"github.com/badzhang/bzserver/v2/transport"
 	"sync"
 )
 

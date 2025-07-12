@@ -3,9 +3,9 @@ package packet
 import (
 	"bytes"
 	"encoding/binary"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
+	"github.com/badzhang/bzserver/v2/core/buffer"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/log"
 	"io"
 	"sync"
 	"time"

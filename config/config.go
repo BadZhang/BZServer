@@ -2,7 +2,7 @@ package config
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/core/value"
+	"github.com/badzhang/bzserver/v2/core/value"
 )
 
 var globalConfigurator Configurator

@@ -2,7 +2,7 @@ package xtime
 
 import (
 	"fmt"
-	"github.com/dobyte/due/v2/etc"
+	"github.com/badzhang/bzserver/v2/etc"
 	"math"
 	"time"
 )

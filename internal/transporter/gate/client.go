@@ -2,12 +2,12 @@ package gate
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/internal/transporter/internal/client"
-	"github.com/dobyte/due/v2/internal/transporter/internal/codes"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/session"
+	"github.com/badzhang/bzserver/v2/cluster"
+	"github.com/badzhang/bzserver/v2/core/buffer"
+	"github.com/badzhang/bzserver/v2/internal/transporter/internal/client"
+	"github.com/badzhang/bzserver/v2/internal/transporter/internal/codes"
+	"github.com/badzhang/bzserver/v2/internal/transporter/internal/protocol"
+	"github.com/badzhang/bzserver/v2/session"
 	"sync/atomic"
 )
 

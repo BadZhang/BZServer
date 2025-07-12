@@ -1,7 +1,7 @@
 package link
 
 import (
-	"github.com/dobyte/due/v2/cluster"
+	"github.com/badzhang/bzserver/v2/cluster"
 )
 
 type (

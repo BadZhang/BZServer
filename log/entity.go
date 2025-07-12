@@ -9,8 +9,8 @@ package log
 
 import (
 	"fmt"
-	stacks "github.com/dobyte/due/v2/core/stack"
-	"github.com/dobyte/due/v2/utils/xtime"
+	stacks "github.com/badzhang/bzserver/v2/core/stack"
+	"github.com/badzhang/bzserver/v2/utils/xtime"
 	"path/filepath"
 	"runtime"
 	"strings"

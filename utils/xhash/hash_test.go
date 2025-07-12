@@ -1,7 +1,7 @@
 package xhash_test
 
 import (
-	"github.com/dobyte/due/v2/utils/xhash"
+	"github.com/badzhang/bzserver/v2/utils/xhash"
 	"testing"
 )
 

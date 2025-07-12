@@ -1,7 +1,7 @@
 package discovery
 
 import (
-	"github.com/dobyte/due/v2/log"
+	"github.com/badzhang/bzserver/v2/log"
 	cli "github.com/smallnest/rpcx/client"
 	"sync"
 	"time"

@@ -1,7 +1,7 @@
 package xconv
 
 import (
-	"github.com/dobyte/due/v2/encoding/json"
+	"github.com/badzhang/bzserver/v2/encoding/json"
 	"reflect"
 )
 

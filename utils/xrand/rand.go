@@ -1,7 +1,7 @@
 package xrand
 
 import (
-	"github.com/dobyte/due/v2/log"
+	"github.com/badzhang/bzserver/v2/log"
 	"math"
 	"math/rand"
 	"strconv"

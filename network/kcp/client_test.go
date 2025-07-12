@@ -2,11 +2,11 @@ package kcp_test
 
 import (
 	"fmt"
-	"github.com/dobyte/due/network/kcp/v2"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/utils/xrand"
+	"github.com/badzhang/bzserver/network/kcp/v2"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/network"
+	"github.com/badzhang/bzserver/v2/packet"
+	"github.com/badzhang/bzserver/v2/utils/xrand"
 	"net/http"
 	"sync"
 	"sync/atomic"

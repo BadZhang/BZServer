@@ -1,9 +1,9 @@
-module github.com/dobyte/due/crypto/ecc/v2
+module github.com/badzhang/bzserver/crypto/ecc/v2
 
 go 1.23.0
 
 require (
-	github.com/dobyte/due/v2 v2.2.5
+	github.com/badzhang/bzserver/v2 v2.2.7
 	github.com/ethereum/go-ethereum v1.12.0
 )
 
@@ -29,4 +29,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/dobyte/due/v2 => ../../
+replace github.com/badzhang/bzserver/v2 => ../../

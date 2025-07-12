@@ -1,11 +1,11 @@
 package protocol_test
 
 import (
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/internal/transporter/internal/codes"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/session"
+	"github.com/badzhang/bzserver/v2/core/buffer"
+	"github.com/badzhang/bzserver/v2/internal/transporter/internal/codes"
+	"github.com/badzhang/bzserver/v2/internal/transporter/internal/protocol"
+	"github.com/badzhang/bzserver/v2/packet"
+	"github.com/badzhang/bzserver/v2/session"
 	"testing"
 )
 

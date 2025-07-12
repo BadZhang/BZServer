@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/dobyte/due/v2/core/value"
+	"github.com/badzhang/bzserver/v2/core/value"
 )
 
 type Matcher interface {

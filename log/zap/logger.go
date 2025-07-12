@@ -9,9 +9,9 @@ package zap
 
 import (
 	"fmt"
-	"github.com/dobyte/due/log/zap/v2/internal/encoder"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/mode"
+	"github.com/badzhang/bzserver/log/zap/v2/internal/encoder"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/mode"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"os"

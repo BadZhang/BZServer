@@ -2,12 +2,12 @@ package http
 
 import (
 	"fmt"
-	"github.com/dobyte/due/component/http/v2/swagger"
-	"github.com/dobyte/due/v2/component"
-	"github.com/dobyte/due/v2/core/info"
-	xnet "github.com/dobyte/due/v2/core/net"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
+	"github.com/badzhang/bzserver/component/http/v2/swagger"
+	"github.com/badzhang/bzserver/v2/component"
+	"github.com/badzhang/bzserver/v2/core/info"
+	xnet "github.com/badzhang/bzserver/v2/core/net"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/log"
 	"github.com/gofiber/fiber/v3"
 	"github.com/gofiber/fiber/v3/middleware/cors"
 	"github.com/gofiber/fiber/v3/middleware/logger"

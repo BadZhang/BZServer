@@ -3,8 +3,8 @@ package log
 import (
 	"bufio"
 	"fmt"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/utils/xfile"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/utils/xfile"
 	gzip "github.com/klauspost/pgzip"
 	"io"
 	"os"

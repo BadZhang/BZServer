@@ -3,9 +3,9 @@ package gate_test
 import (
 	"context"
 	"fmt"
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/internal/transporter/gate"
-	"github.com/dobyte/due/v2/session"
+	"github.com/badzhang/bzserver/v2/cluster"
+	"github.com/badzhang/bzserver/v2/internal/transporter/gate"
+	"github.com/badzhang/bzserver/v2/session"
 	"testing"
 	"time"
 )

@@ -1,8 +1,8 @@
 package kcp
 
 import (
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/utils/xcall"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/utils/xcall"
 	"github.com/xtaci/kcp-go/v5"
 	"reflect"
 	"sync"

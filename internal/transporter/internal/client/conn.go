@@ -1,12 +1,12 @@
 package client
 
 import (
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/internal/transporter/internal/def"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/badzhang/bzserver/v2/core/buffer"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/internal/transporter/internal/def"
+	"github.com/badzhang/bzserver/v2/internal/transporter/internal/protocol"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/utils/xtime"
 	"net"
 	"sync/atomic"
 	"time"

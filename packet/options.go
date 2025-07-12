@@ -2,7 +2,7 @@ package packet
 
 import (
 	"encoding/binary"
-	"github.com/dobyte/due/v2/etc"
+	"github.com/badzhang/bzserver/v2/etc"
 	"strings"
 )
 

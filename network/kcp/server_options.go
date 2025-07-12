@@ -8,7 +8,7 @@
 package kcp
 
 import (
-	"github.com/dobyte/due/v2/etc"
+	"github.com/badzhang/bzserver/v2/etc"
 	"time"
 )
 

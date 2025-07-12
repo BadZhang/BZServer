@@ -1,7 +1,7 @@
 package protocol_test
 
 import (
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
+	"github.com/badzhang/bzserver/v2/internal/transporter/internal/protocol"
 	"testing"
 )
 

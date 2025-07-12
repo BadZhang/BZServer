@@ -1,9 +1,9 @@
-module github.com/dobyte/due/transport/grpc/v2
+module github.com/badzhang/bzserver/transport/grpc/v2
 
 go 1.23.0
 
 require (
-	github.com/dobyte/due/v2 v2.2.5
+	github.com/badzhang/bzserver/v2 v2.2.7
 	golang.org/x/sync v0.13.0
 	google.golang.org/grpc v1.71.1
 )
@@ -32,4 +32,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/dobyte/due/v2 => ../../
+replace github.com/badzhang/bzserver/v2 => ../../

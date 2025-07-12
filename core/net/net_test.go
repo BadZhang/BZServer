@@ -1,7 +1,7 @@
 package net_test
 
 import (
-	"github.com/dobyte/due/v2/core/net"
+	"github.com/badzhang/bzserver/v2/core/net"
 	"testing"
 )
 

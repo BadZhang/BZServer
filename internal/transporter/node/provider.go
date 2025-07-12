@@ -2,7 +2,7 @@ package node
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/cluster"
+	"github.com/badzhang/bzserver/v2/cluster"
 )
 
 type Provider interface {

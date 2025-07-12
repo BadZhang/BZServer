@@ -2,8 +2,8 @@ package client
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/errors"
+	"github.com/badzhang/bzserver/v2/core/buffer"
+	"github.com/badzhang/bzserver/v2/errors"
 	"sync"
 	"sync/atomic"
 	"time"

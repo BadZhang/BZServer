@@ -1,9 +1,9 @@
 package nats
 
 import (
-	"github.com/dobyte/due/v2/eventbus"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/task"
+	"github.com/badzhang/bzserver/v2/eventbus"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/task"
 	"github.com/nats-io/nats.go"
 	"reflect"
 	"sync"

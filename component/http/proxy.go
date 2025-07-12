@@ -1,8 +1,8 @@
 package http
 
 import (
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/transport"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/transport"
 )
 
 type Proxy struct {

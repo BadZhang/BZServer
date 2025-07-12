@@ -1,9 +1,9 @@
 package dispatcher
 
 import (
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/endpoint"
-	"github.com/dobyte/due/v2/errors"
+	"github.com/badzhang/bzserver/v2/cluster"
+	"github.com/badzhang/bzserver/v2/core/endpoint"
+	"github.com/badzhang/bzserver/v2/errors"
 	"math/rand/v2"
 	"sync"
 	"sync/atomic"

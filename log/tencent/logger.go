@@ -10,8 +10,8 @@ package tencent
 import (
 	"bytes"
 	"fmt"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/utils/xtime"
 	cls "github.com/tencentcloud/tencentcloud-cls-sdk-go"
 	"os"
 	"sync"

@@ -1,8 +1,8 @@
 package memcache
 
 import (
+	"github.com/badzhang/bzserver/v2/etc"
 	"github.com/bradfitz/gomemcache/memcache"
-	"github.com/dobyte/due/v2/etc"
 	"time"
 )
 

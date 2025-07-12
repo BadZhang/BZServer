@@ -1,8 +1,8 @@
 package node
 
 import (
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/utils/xcall"
+	"github.com/badzhang/bzserver/v2/cluster"
+	"github.com/badzhang/bzserver/v2/utils/xcall"
 	"sync"
 	"sync/atomic"
 	"time"

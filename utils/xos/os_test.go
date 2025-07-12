@@ -1,7 +1,7 @@
 package xos_test
 
 import (
-	"github.com/dobyte/due/v2/utils/xos"
+	"github.com/badzhang/bzserver/v2/utils/xos"
 	"testing"
 )
 

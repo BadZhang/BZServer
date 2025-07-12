@@ -2,8 +2,8 @@ package transport
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/core/endpoint"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/badzhang/bzserver/v2/core/endpoint"
+	"github.com/badzhang/bzserver/v2/registry"
 )
 
 type Server interface {

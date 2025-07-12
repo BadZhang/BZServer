@@ -2,10 +2,10 @@ package eventbus
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/core/value"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/utils/xtime"
-	"github.com/dobyte/due/v2/utils/xuuid"
+	"github.com/badzhang/bzserver/v2/core/value"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/utils/xtime"
+	"github.com/badzhang/bzserver/v2/utils/xuuid"
 	"sync"
 	"time"
 )

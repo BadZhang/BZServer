@@ -2,10 +2,10 @@ package pprof
 
 import (
 	"fmt"
-	"github.com/dobyte/due/v2/component"
-	"github.com/dobyte/due/v2/core/info"
-	xnet "github.com/dobyte/due/v2/core/net"
-	"github.com/dobyte/due/v2/log"
+	"github.com/badzhang/bzserver/v2/component"
+	"github.com/badzhang/bzserver/v2/core/info"
+	xnet "github.com/badzhang/bzserver/v2/core/net"
+	"github.com/badzhang/bzserver/v2/log"
 	"net/http"
 	_ "net/http/pprof"
 )

@@ -1,8 +1,8 @@
 package direct
 
 import (
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/log"
 	"google.golang.org/grpc/balancer"
 	"google.golang.org/grpc/resolver"
 )

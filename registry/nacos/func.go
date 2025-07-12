@@ -2,7 +2,7 @@ package nacos
 
 import (
 	"fmt"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/badzhang/bzserver/v2/registry"
 )
 
 // 构建实例ID

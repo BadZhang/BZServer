@@ -2,10 +2,10 @@ package memcache
 
 import (
 	"context"
+	"github.com/badzhang/bzserver/v2/cache"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/utils/xconv"
 	"github.com/bradfitz/gomemcache/memcache"
-	"github.com/dobyte/due/v2/cache"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/utils/xconv"
 	"golang.org/x/sync/singleflight"
 	"reflect"
 	"time"

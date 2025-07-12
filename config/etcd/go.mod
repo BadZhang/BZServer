@@ -1,9 +1,9 @@
-module github.com/dobyte/due/config/etcd/v2
+module github.com/badzhang/bzserver/config/etcd/v2
 
 go 1.23.0
 
 require (
-	github.com/dobyte/due/v2 v2.2.5
+	github.com/badzhang/bzserver/v2 v2.2.7
 	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/v3 v3.5.21
 )
@@ -37,4 +37,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/dobyte/due/v2 => ../../
+replace github.com/badzhang/bzserver/v2 => ../../

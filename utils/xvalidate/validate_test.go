@@ -1,7 +1,7 @@
 package xvalidate_test
 
 import (
-	"github.com/dobyte/due/v2/utils/xvalidate"
+	"github.com/badzhang/bzserver/v2/utils/xvalidate"
 	"testing"
 )
 

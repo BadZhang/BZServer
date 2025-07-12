@@ -1,10 +1,10 @@
 package client
 
 import (
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/value"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/packet"
+	"github.com/badzhang/bzserver/v2/cluster"
+	"github.com/badzhang/bzserver/v2/core/value"
+	"github.com/badzhang/bzserver/v2/network"
+	"github.com/badzhang/bzserver/v2/packet"
 	"net"
 	"sync"
 )

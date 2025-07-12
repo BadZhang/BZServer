@@ -2,9 +2,9 @@ package core
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/config"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/utils/xfile"
+	"github.com/badzhang/bzserver/v2/config"
+	"github.com/badzhang/bzserver/v2/errors"
+	"github.com/badzhang/bzserver/v2/utils/xfile"
 	"io"
 	"io/fs"
 	"os"

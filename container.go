@@ -2,16 +2,16 @@ package due
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/component"
-	"github.com/dobyte/due/v2/config"
-	"github.com/dobyte/due/v2/core/info"
-	"github.com/dobyte/due/v2/etc"
-	"github.com/dobyte/due/v2/eventbus"
-	"github.com/dobyte/due/v2/lock"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/task"
-	"github.com/dobyte/due/v2/utils/xcall"
-	"github.com/dobyte/due/v2/utils/xfile"
+	"github.com/badzhang/bzserver/v2/component"
+	"github.com/badzhang/bzserver/v2/config"
+	"github.com/badzhang/bzserver/v2/core/info"
+	"github.com/badzhang/bzserver/v2/etc"
+	"github.com/badzhang/bzserver/v2/eventbus"
+	"github.com/badzhang/bzserver/v2/lock"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/task"
+	"github.com/badzhang/bzserver/v2/utils/xcall"
+	"github.com/badzhang/bzserver/v2/utils/xfile"
 	"os"
 	"os/signal"
 	"runtime"
@@ -148,4 +148,9 @@ func (c *Container) doPrintFrameworkInfo() {
 	info.PrintFrameworkInfo()
 
 	info.PrintGlobalInfo()
+}
+
+// 设置当前项目版本号
+func (c *Container) SetServerVersion(ver string) {
+	info.SetServerVersion(ver)
 }

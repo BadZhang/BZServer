@@ -2,8 +2,8 @@ package packet_test
 
 import (
 	"bytes"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/utils/xrand"
+	"github.com/badzhang/bzserver/v2/packet"
+	"github.com/badzhang/bzserver/v2/utils/xrand"
 	"testing"
 )
 

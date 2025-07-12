@@ -2,11 +2,11 @@ package client
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/crypto"
-	"github.com/dobyte/due/v2/encoding"
-	"github.com/dobyte/due/v2/etc"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/utils/xuuid"
+	"github.com/badzhang/bzserver/v2/crypto"
+	"github.com/badzhang/bzserver/v2/encoding"
+	"github.com/badzhang/bzserver/v2/etc"
+	"github.com/badzhang/bzserver/v2/network"
+	"github.com/badzhang/bzserver/v2/utils/xuuid"
 	"time"
 )
 

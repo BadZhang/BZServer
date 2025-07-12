@@ -2,7 +2,7 @@ package lock_test
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/lock"
+	"github.com/badzhang/bzserver/v2/lock"
 	"testing"
 )
 

@@ -8,9 +8,9 @@
 package ws
 
 import (
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/utils/xcall"
+	"github.com/badzhang/bzserver/v2/log"
+	"github.com/badzhang/bzserver/v2/network"
+	"github.com/badzhang/bzserver/v2/utils/xcall"
 	"github.com/gorilla/websocket"
 	"net"
 	"net/http"

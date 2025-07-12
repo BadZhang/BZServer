@@ -9,13 +9,13 @@ package gate
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/etc"
-	"github.com/dobyte/due/v2/locate"
-	"github.com/dobyte/due/v2/utils/xuuid"
+	"github.com/badzhang/bzserver/v2/etc"
+	"github.com/badzhang/bzserver/v2/locate"
+	"github.com/badzhang/bzserver/v2/utils/xuuid"
 	"time"
 
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/badzhang/bzserver/v2/network"
+	"github.com/badzhang/bzserver/v2/registry"
 )
 
 const (

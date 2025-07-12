@@ -1,7 +1,7 @@
 package xstring_test
 
 import (
-	"github.com/dobyte/due/v2/utils/xstring"
+	"github.com/badzhang/bzserver/v2/utils/xstring"
 	"testing"
 )
 

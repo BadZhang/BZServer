@@ -1,6 +1,6 @@
 package chains
 
-import "github.com/dobyte/due/v2/utils/xcall"
+import "github.com/badzhang/bzserver/v2/utils/xcall"
 
 type Chain struct {
 	head *node

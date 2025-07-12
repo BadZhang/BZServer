@@ -1,7 +1,7 @@
 package limiter
 
 import (
-	"github.com/dobyte/due/v2/utils/xtime"
+	"github.com/badzhang/bzserver/v2/utils/xtime"
 	"sync"
 )
 

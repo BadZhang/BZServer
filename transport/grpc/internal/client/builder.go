@@ -1,9 +1,9 @@
 package client
 
 import (
-	"github.com/dobyte/due/transport/grpc/v2/internal/resolver/direct"
-	"github.com/dobyte/due/transport/grpc/v2/internal/resolver/discovery"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/badzhang/bzserver/transport/grpc/v2/internal/resolver/direct"
+	"github.com/badzhang/bzserver/transport/grpc/v2/internal/resolver/discovery"
+	"github.com/badzhang/bzserver/v2/registry"
 	"golang.org/x/sync/singleflight"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"

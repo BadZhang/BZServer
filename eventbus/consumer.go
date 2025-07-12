@@ -1,7 +1,7 @@
 package eventbus
 
 import (
-	"github.com/dobyte/due/v2/task"
+	"github.com/badzhang/bzserver/v2/task"
 	"reflect"
 	"sync"
 )
