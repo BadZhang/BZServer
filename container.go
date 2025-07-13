@@ -151,6 +151,6 @@ func (c *Container) doPrintFrameworkInfo() {
 }
 
 // 设置当前项目版本号
-func (c *Container) SetServerVersion(ver string) {
-	info.SetServerVersion(ver)
+func (c *Container) SetVersion(ver string) {
+	info.SetVersion(ver)
 }

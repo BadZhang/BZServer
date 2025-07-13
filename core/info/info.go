@@ -89,6 +89,6 @@ func strLen(str ...string) int {
 	}
 }
 
-func SetServerVersion(ver string) {
+func SetVersion(ver string) {
 	serverVersion = ver
 }
